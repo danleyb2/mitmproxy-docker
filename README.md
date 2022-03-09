@@ -33,7 +33,7 @@ or just
 Launch Chrome New Profile in **tmp**:
 ```
 google-chrome --proxy-server="http://localhost:8888" --user-data-dir="/tmp/mitm1"
-``
+```
 
 4. Try it out
 
